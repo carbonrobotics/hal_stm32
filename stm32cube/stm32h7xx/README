@@ -44,4 +44,6 @@ Patch List:
     -Added stm32cube/stm32h7xx/drivers/include/stm32_assert.h
     -Removed unused stm32cube/stm32h7xx/drivers/include/stm32_assert_template.h
 
+   *stm32h7xx_hal_eth.c: Fix context descriptor leak 
+
    See release_note.html from STM32Cube
